@@ -1,0 +1,370 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Media\\SSS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|d:\\media\\sss\\sss\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|solutionrelative:sss\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|d:\\media\\sss\\sss\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|solutionrelative:sss\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|d:\\media\\sss\\sss\\victory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|solutionrelative:sss\\victory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|D:\\Media\\SSS\\sss\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|solutionrelative:sss\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|d:\\media\\sss\\sss\\messagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|solutionrelative:sss\\messagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|d:\\media\\sss\\sss\\start.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|solutionrelative:sss\\start.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|d:\\media\\sss\\sss\\avoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|solutionrelative:sss\\avoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|d:\\media\\sss\\sss\\defeated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|solutionrelative:sss\\defeated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|d:\\media\\sss\\sss\\beforedialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|solutionrelative:sss\\beforedialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|d:\\media\\sss\\sss\\sss.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|solutionrelative:sss\\sss.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|d:\\media\\sss\\sss\\defeated.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|solutionrelative:sss\\defeated.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|D:\\Media\\SSS\\sss\\beforedialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|solutionrelative:sss\\beforedialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|D:\\Media\\SSS\\sss\\victory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|solutionrelative:sss\\victory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|d:\\media\\sss\\sss\\battle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|solutionrelative:sss\\battle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|D:\\Media\\SSS\\sss\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|solutionrelative:sss\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|D:\\Media\\SSS\\sss\\defeated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|solutionrelative:sss\\defeated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|D:\\Media\\SSS\\sss\\avoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|solutionrelative:sss\\avoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|d:\\media\\sss\\sss\\victory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|solutionrelative:sss\\victory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|D:\\Media\\SSS\\sss\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|solutionrelative:sss\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|d:\\media\\sss\\sss\\messagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|solutionrelative:sss\\messagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|d:\\media\\sss\\sss\\beforedialogue.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C43D73-623B-43DE-B5E5-E75D9E9BA85D}|SSS\\SSS.csproj|solutionrelative:sss\\beforedialogue.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageBox.cs [Design]",
+              "DocumentMoniker": "D:\\Media\\SSS\\SSS\\MessageBox.cs",
+              "RelativeDocumentMoniker": "SSS\\MessageBox.cs",
+              "ToolTip": "D:\\Media\\SSS\\SSS\\MessageBox.cs [Design]",
+              "RelativeToolTip": "SSS\\MessageBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:27:01.933Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Battle.cs",
+              "DocumentMoniker": "D:\\Media\\SSS\\SSS\\Battle.cs",
+              "RelativeDocumentMoniker": "SSS\\Battle.cs",
+              "ToolTip": "D:\\Media\\SSS\\SSS\\Battle.cs",
+              "RelativeToolTip": "SSS\\Battle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:12:41.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Start.Designer.cs",
+              "DocumentMoniker": "D:\\Media\\SSS\\SSS\\Start.Designer.cs",
+              "RelativeDocumentMoniker": "SSS\\Start.Designer.cs",
+              "ToolTip": "D:\\Media\\SSS\\SSS\\Start.Designer.cs",
+              "RelativeToolTip": "SSS\\Start.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:12:43.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Victory.cs",
+              "DocumentMoniker": "D:\\Media\\SSS\\SSS\\Victory.cs",
+              "RelativeDocumentMoniker": "SSS\\Victory.cs",
+              "ToolTip": "D:\\Media\\SSS\\SSS\\Victory.cs",
+              "RelativeToolTip": "SSS\\Victory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:12:43.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Avoid.cs",
+              "DocumentMoniker": "D:\\Media\\SSS\\SSS\\Avoid.cs",
+              "RelativeDocumentMoniker": "SSS\\Avoid.cs",
+              "ToolTip": "D:\\Media\\SSS\\SSS\\Avoid.cs",
+              "RelativeToolTip": "SSS\\Avoid.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA8wCwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:12:43.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Defeated.cs",
+              "DocumentMoniker": "D:\\Media\\SSS\\SSS\\Defeated.cs",
+              "RelativeDocumentMoniker": "SSS\\Defeated.cs",
+              "ToolTip": "D:\\Media\\SSS\\SSS\\Defeated.cs",
+              "RelativeToolTip": "SSS\\Defeated.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:12:43.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Start.cs",
+              "DocumentMoniker": "D:\\Media\\SSS\\SSS\\Start.cs",
+              "RelativeDocumentMoniker": "SSS\\Start.cs",
+              "ToolTip": "D:\\Media\\SSS\\SSS\\Start.cs",
+              "RelativeToolTip": "SSS\\Start.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:12:41.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SSS.csproj",
+              "DocumentMoniker": "D:\\Media\\SSS\\SSS\\SSS.csproj",
+              "RelativeDocumentMoniker": "SSS\\SSS.csproj",
+              "ToolTip": "D:\\Media\\SSS\\SSS\\SSS.csproj",
+              "RelativeToolTip": "SSS\\SSS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T05:12:43.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Start.cs [Design]",
+              "DocumentMoniker": "D:\\Media\\SSS\\SSS\\Start.cs",
+              "RelativeDocumentMoniker": "SSS\\Start.cs",
+              "ToolTip": "D:\\Media\\SSS\\SSS\\Start.cs [Design]",
+              "RelativeToolTip": "SSS\\Start.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:12:43.912Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BeforeDialogue.cs",
+              "DocumentMoniker": "D:\\Media\\SSS\\SSS\\BeforeDialogue.cs",
+              "RelativeDocumentMoniker": "SSS\\BeforeDialogue.cs",
+              "ToolTip": "D:\\Media\\SSS\\SSS\\BeforeDialogue.cs",
+              "RelativeToolTip": "SSS\\BeforeDialogue.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:12:41.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Defeated.Designer.cs",
+              "DocumentMoniker": "D:\\Media\\SSS\\SSS\\Defeated.Designer.cs",
+              "RelativeDocumentMoniker": "SSS\\Defeated.Designer.cs",
+              "ToolTip": "D:\\Media\\SSS\\SSS\\Defeated.Designer.cs",
+              "RelativeToolTip": "SSS\\Defeated.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:12:43.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Battle.Designer.cs",
+              "DocumentMoniker": "D:\\Media\\SSS\\SSS\\Battle.Designer.cs",
+              "RelativeDocumentMoniker": "SSS\\Battle.Designer.cs",
+              "ToolTip": "D:\\Media\\SSS\\SSS\\Battle.Designer.cs",
+              "RelativeToolTip": "SSS\\Battle.Designer.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwBAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:12:41.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Victory.Designer.cs",
+              "DocumentMoniker": "D:\\Media\\SSS\\SSS\\Victory.Designer.cs",
+              "RelativeDocumentMoniker": "SSS\\Victory.Designer.cs",
+              "ToolTip": "D:\\Media\\SSS\\SSS\\Victory.Designer.cs",
+              "RelativeToolTip": "SSS\\Victory.Designer.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAiwGoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:12:43.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MessageBox.cs",
+              "DocumentMoniker": "D:\\Media\\SSS\\SSS\\MessageBox.cs",
+              "RelativeDocumentMoniker": "SSS\\MessageBox.cs",
+              "ToolTip": "D:\\Media\\SSS\\SSS\\MessageBox.cs",
+              "RelativeToolTip": "SSS\\MessageBox.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADgvxkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:12:44.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BeforeDialogue.Designer.cs",
+              "DocumentMoniker": "D:\\Media\\SSS\\SSS\\BeforeDialogue.Designer.cs",
+              "RelativeDocumentMoniker": "SSS\\BeforeDialogue.Designer.cs",
+              "ToolTip": "D:\\Media\\SSS\\SSS\\BeforeDialogue.Designer.cs",
+              "RelativeToolTip": "SSS\\BeforeDialogue.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:12:44.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BeforeDialogue.cs [Design]",
+              "DocumentMoniker": "D:\\Media\\SSS\\SSS\\BeforeDialogue.cs",
+              "RelativeDocumentMoniker": "SSS\\BeforeDialogue.cs",
+              "ToolTip": "D:\\Media\\SSS\\SSS\\BeforeDialogue.cs [Design]",
+              "RelativeToolTip": "SSS\\BeforeDialogue.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:12:41.183Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Defeated.cs [Design]",
+              "DocumentMoniker": "D:\\Media\\SSS\\SSS\\Defeated.cs",
+              "RelativeDocumentMoniker": "SSS\\Defeated.cs",
+              "ToolTip": "D:\\Media\\SSS\\SSS\\Defeated.cs [Design]",
+              "RelativeToolTip": "SSS\\Defeated.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:12:41.208Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Victory.cs [Design]",
+              "DocumentMoniker": "D:\\Media\\SSS\\SSS\\Victory.cs",
+              "RelativeDocumentMoniker": "SSS\\Victory.cs",
+              "ToolTip": "D:\\Media\\SSS\\SSS\\Victory.cs [Design]",
+              "RelativeToolTip": "SSS\\Victory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:12:41.208Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Avoid.cs [Design]",
+              "DocumentMoniker": "D:\\Media\\SSS\\SSS\\Avoid.cs",
+              "RelativeDocumentMoniker": "SSS\\Avoid.cs",
+              "ToolTip": "D:\\Media\\SSS\\SSS\\Avoid.cs [Design]",
+              "RelativeToolTip": "SSS\\Avoid.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:12:41.213Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Battle.cs [Design]",
+              "DocumentMoniker": "D:\\Media\\SSS\\SSS\\Battle.cs",
+              "RelativeDocumentMoniker": "SSS\\Battle.cs",
+              "ToolTip": "D:\\C# Programming\\MyProjects\\SSS\\SSS\\Battle.cs [Design]",
+              "RelativeToolTip": "..\\..\\C# Programming\\MyProjects\\SSS\\SSS\\Battle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-04T05:12:43.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\Media\\SSS\\SSS\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "SSS\\Properties\\Resources.resx",
+              "ToolTip": "D:\\Media\\SSS\\SSS\\Properties\\Resources.resx",
+              "RelativeToolTip": "SSS\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-12-04T05:12:43.93Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

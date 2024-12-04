@@ -1,0 +1,47 @@
+D:\C# Programming\MyProjects\SSS\SSS\bin\Debug\net6.0-windows\SSS.exe
+D:\C# Programming\MyProjects\SSS\SSS\bin\Debug\net6.0-windows\SSS.deps.json
+D:\C# Programming\MyProjects\SSS\SSS\bin\Debug\net6.0-windows\SSS.runtimeconfig.json
+D:\C# Programming\MyProjects\SSS\SSS\bin\Debug\net6.0-windows\SSS.dll
+D:\C# Programming\MyProjects\SSS\SSS\bin\Debug\net6.0-windows\SSS.pdb
+D:\C# Programming\MyProjects\SSS\SSS\obj\Debug\net6.0-windows\SSS.csproj.AssemblyReference.cache
+D:\C# Programming\MyProjects\SSS\SSS\obj\Debug\net6.0-windows\SSS.Properties.Resources.resources
+D:\C# Programming\MyProjects\SSS\SSS\obj\Debug\net6.0-windows\SSS.csproj.GenerateResource.cache
+D:\C# Programming\MyProjects\SSS\SSS\obj\Debug\net6.0-windows\SSS.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programming\MyProjects\SSS\SSS\obj\Debug\net6.0-windows\SSS.AssemblyInfoInputs.cache
+D:\C# Programming\MyProjects\SSS\SSS\obj\Debug\net6.0-windows\SSS.AssemblyInfo.cs
+D:\C# Programming\MyProjects\SSS\SSS\obj\Debug\net6.0-windows\SSS.csproj.CoreCompileInputs.cache
+D:\C# Programming\MyProjects\SSS\SSS\obj\Debug\net6.0-windows\SSS.dll
+D:\C# Programming\MyProjects\SSS\SSS\obj\Debug\net6.0-windows\refint\SSS.dll
+D:\C# Programming\MyProjects\SSS\SSS\obj\Debug\net6.0-windows\SSS.pdb
+D:\C# Programming\MyProjects\SSS\SSS\obj\Debug\net6.0-windows\SSS.genruntimeconfig.cache
+D:\C# Programming\MyProjects\SSS\SSS\obj\Debug\net6.0-windows\ref\SSS.dll
+D:\C# Programming\MyProjects\SSS\SSS\obj\Debug\net6.0-windows\SSS.MessageBox.resources
+D:\C# Programming\MyProjects\SSS\SSS\obj\Debug\net6.0-windows\SSS.Avoid.resources
+D:\C# Programming\MyProjects\SSS\SSS\obj\Debug\net6.0-windows\SSS.Battle.resources
+D:\C# Programming\MyProjects\SSS\SSS\obj\Debug\net6.0-windows\SSS.BeforeDialogue.resources
+D:\C# Programming\MyProjects\SSS\SSS\obj\Debug\net6.0-windows\SSS.Start.resources
+D:\C# Programming\MyProjects\SSS\SSS\obj\Debug\net6.0-windows\SSS.Victory.resources
+D:\C# Programming\MyProjects\SSS\SSS\obj\Debug\net6.0-windows\SSS.Defeated.resources
+D:\Media\SSS\SSS\bin\Debug\net6.0-windows\SSS.exe
+D:\Media\SSS\SSS\bin\Debug\net6.0-windows\SSS.deps.json
+D:\Media\SSS\SSS\bin\Debug\net6.0-windows\SSS.runtimeconfig.json
+D:\Media\SSS\SSS\bin\Debug\net6.0-windows\SSS.dll
+D:\Media\SSS\SSS\bin\Debug\net6.0-windows\SSS.pdb
+D:\Media\SSS\SSS\obj\Debug\net6.0-windows\SSS.Avoid.resources
+D:\Media\SSS\SSS\obj\Debug\net6.0-windows\SSS.Battle.resources
+D:\Media\SSS\SSS\obj\Debug\net6.0-windows\SSS.BeforeDialogue.resources
+D:\Media\SSS\SSS\obj\Debug\net6.0-windows\SSS.Defeated.resources
+D:\Media\SSS\SSS\obj\Debug\net6.0-windows\SSS.MessageBox.resources
+D:\Media\SSS\SSS\obj\Debug\net6.0-windows\SSS.Properties.Resources.resources
+D:\Media\SSS\SSS\obj\Debug\net6.0-windows\SSS.Start.resources
+D:\Media\SSS\SSS\obj\Debug\net6.0-windows\SSS.Victory.resources
+D:\Media\SSS\SSS\obj\Debug\net6.0-windows\SSS.csproj.GenerateResource.cache
+D:\Media\SSS\SSS\obj\Debug\net6.0-windows\SSS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Media\SSS\SSS\obj\Debug\net6.0-windows\SSS.AssemblyInfoInputs.cache
+D:\Media\SSS\SSS\obj\Debug\net6.0-windows\SSS.AssemblyInfo.cs
+D:\Media\SSS\SSS\obj\Debug\net6.0-windows\SSS.csproj.CoreCompileInputs.cache
+D:\Media\SSS\SSS\obj\Debug\net6.0-windows\SSS.dll
+D:\Media\SSS\SSS\obj\Debug\net6.0-windows\refint\SSS.dll
+D:\Media\SSS\SSS\obj\Debug\net6.0-windows\SSS.pdb
+D:\Media\SSS\SSS\obj\Debug\net6.0-windows\SSS.genruntimeconfig.cache
+D:\Media\SSS\SSS\obj\Debug\net6.0-windows\ref\SSS.dll
